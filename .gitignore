@@ -1,0 +1,8 @@
+node_modules/
+store.db
+package-lock.json
+*.backup
+patch-store.cjs
+fix-html.bat
+.DS_Store
+*.log
